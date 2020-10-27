@@ -1,0 +1,14 @@
+{
+  "name": "crystal-rippled-sdk",
+  "version": "0.1.0",
+  "description": "Install npm module use for fukaoi/ripple-client-lib",
+  "repository": "crystal-ripple-sdk",
+  "main": "",
+  "author": "fukaoi",
+  "license": "MIT",
+  "dependencies": {
+    "core-js": "3.1.2",
+    "ripple-lib": "1.2.3",
+    "request": "2.88.0"
+  }
+}
