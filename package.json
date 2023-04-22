@@ -8,7 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "core-js": "3.1.2",
-    "ripple-lib": "1.2.3",
+    "ripple-lib": "1.10.1",
     "request": "2.88.0"
   }
 }
